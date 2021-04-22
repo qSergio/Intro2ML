@@ -1,2 +1,4 @@
 # Intro2ML
-Notes for introductory course in ML
+Notes for an introductory course in ML.
+
+Requirements:
