@@ -1,4 +1,4 @@
-# Supervised Learning
+# Supervised Learning Session
 
 You need to create a python environment with the libreries in requirements.txt
 
