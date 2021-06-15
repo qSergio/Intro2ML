@@ -4,6 +4,4 @@
 
 1. You can find the data set in (Kaggle)[https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset]
 
-2. Session 4 uses the same example dataset.
-
-3. For the homework you need to apply these techniques with a new dataset: a 
+2. We used a random forest to give recommendations about attrition. Your homework is to use the decision tree and compare results.
